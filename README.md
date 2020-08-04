@@ -1,6 +1,17 @@
-## Blog and portfolio
+## News / Blog and Media Website 
 
-Multi user authentication 
+Compete CRUD operation 
+- user can create, update, detete or upload news / blog 
+
+- category and term 
+
+- Admistrator can manage the news items and users 
+
+- Multi user authentication 
+ 
+ - and other features 
+
+
 composer require laravel/helpers for use Intervention\Image\Facades\Image;
 
 
